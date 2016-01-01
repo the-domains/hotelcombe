@@ -1,6 +1,6 @@
 name: HotelCombe
 favicon: null
-layout_spectrum: 0.8044027357827872
+layout_spectrum: 0.24178
 typography_spectrum: 0.9205868470016867
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9461305469740182
+  brandStrength: 0.5
   lightness: 0.7296577412635088
   saturation: 0.06277567683719099
   rhythmicContrast: 0.28478128579445183
